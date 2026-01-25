@@ -27,7 +27,7 @@
 		<activemq.version>5.15.2</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<appengine-sdk.version>1.9.60</appengine-sdk.version>
-		<artemis.version>2.4.0</artemis.version>
+		<artemis.version>2.50.0</artemis.version>
 		<aspectj.version>1.8.13</aspectj.version>
 		<assertj.version>3.9.0</assertj.version>
 		<atomikos.version>4.0.5</atomikos.version>
@@ -60,7 +60,7 @@
 		<hdrhistogram.version>2.1.10</hdrhistogram.version>
 		<hazelcast.version>3.9.2</hazelcast.version>
 		<hazelcast-hibernate5.version>1.2.2</hazelcast-hibernate5.version>
-		<hibernate.version>5.2.12.Final</hibernate.version>
+		<hibernate.version>5.3.38.Final</hibernate.version>
 		<hibernate-validator.version>6.0.7.Final</hibernate-validator.version>
 		<hikaricp.version>2.7.4</hikaricp.version>
 		<hsqldb.version>2.4.0</hsqldb.version>
@@ -110,7 +110,7 @@
 		<lettuce.version>5.0.1.RELEASE</lettuce.version>
 		<liquibase.version>3.5.3</liquibase.version>
 		<log4j2.version>2.10.0</log4j2.version>
-		<logback.version>1.2.3</logback.version>
+		<logback.version>1.5.25</logback.version>
 		<lombok.version>1.16.18</lombok.version>
 		<mariadb.version>2.2.1</mariadb.version>
 		<micrometer.version>1.0.0-rc.7</micrometer.version>
@@ -166,8 +166,8 @@
 		<thymeleaf-layout-dialect.version>2.2.2</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>8.5.24</tomcat.version>
-		<undertow.version>1.4.21.Final</undertow.version>
+		<tomcat.version>9.0.98</tomcat.version>
+		<undertow.version>2.3.21.Final</undertow.version>
 		<unboundid-ldapsdk.version>4.0.3</unboundid-ldapsdk.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
 		<webjars-locator.version>0.32-1</webjars-locator.version>
