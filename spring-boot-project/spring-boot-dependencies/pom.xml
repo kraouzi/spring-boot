@@ -60,7 +60,7 @@
 		<hdrhistogram.version>2.1.10</hdrhistogram.version>
 		<hazelcast.version>3.9.2</hazelcast.version>
 		<hazelcast-hibernate5.version>1.2.2</hazelcast-hibernate5.version>
-		<hibernate.version>5.2.12.Final</hibernate.version>
+		<hibernate.version>5.3.38.Final</hibernate.version>
 		<hibernate-validator.version>6.0.7.Final</hibernate-validator.version>
 		<hikaricp.version>2.7.4</hikaricp.version>
 		<hsqldb.version>2.4.0</hsqldb.version>
@@ -166,7 +166,7 @@
 		<thymeleaf-layout-dialect.version>2.2.2</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>8.5.24</tomcat.version>
+		<tomcat.version>9.0.98</tomcat.version>
 		<undertow.version>1.4.21.Final</undertow.version>
 		<unboundid-ldapsdk.version>4.0.3</unboundid-ldapsdk.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
